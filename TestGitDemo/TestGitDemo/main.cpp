@@ -4,7 +4,7 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-	// test
+	// test again
     TestGitDemo w;
     w.show();
     return a.exec();
